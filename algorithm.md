@@ -1,0 +1,1 @@
+Подготовка к собеседованию по алгоритмам https://practicum.yandex.kz/algorithms-interview/?from=catalog
